@@ -1,7 +1,7 @@
 // pages/api/sitemap.xml.js
 import { format } from 'date-fns';
 
-const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL || 'http://localhost:3000';
+const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL || 'https://nextjsnew-plum.vercel.app';
 
 async function getDynamicUrls() {
   // Replace with your DB/API fetch for dynamic routes
