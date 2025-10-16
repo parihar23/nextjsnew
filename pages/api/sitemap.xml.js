@@ -1,6 +1,6 @@
 // pages/api/sitemap.xml.js
 
-const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL || 'https://example.com';
+const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL || 'https://nextjsnew-plum.vercel.app';
 
 // Helper to format dates as YYYY-MM-DD
 const formatDate = (date) => new Date(date).toISOString().split('T')[0];
