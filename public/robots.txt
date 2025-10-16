@@ -1,5 +1,5 @@
 User-agent: *
 Allow: /
 
-Sitemap: http://localhost:3000/sitemap.xml
-Host: http://localhost:3000/
+Sitemap: https://nextjsnew-plum.vercel.app/sitemap.xml
+Host: https://nextjsnew-plum.vercel.app/
