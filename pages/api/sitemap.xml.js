@@ -20,7 +20,7 @@ async function getDynamicUrls() {
 export default async function handler(req, res) {
   const staticPages = [
     { loc: '/', lastmod: formatDate(new Date()) },
-    { loc: '/users', lastmod: '2025-09-01' },
+    { loc: '/users', lastmod: '2025-10-16' },
     { loc: '/contact', lastmod: '2025-08-20' },
   ];
 
